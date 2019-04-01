@@ -7,4 +7,6 @@ What happens if I put text here?
 
 So I just updated DNS and such. Think it might take 24 hours to propagate.
 
+Whitney is here now too.
+
 Also using Netlify to host...after I push this to GitHub it should CI/CD it.
