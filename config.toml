@@ -1,0 +1,4 @@
+baseURL = "http://www.jasonhussey.com"
+languageCode = "en-us"
+title = "Jason Hussey"
+theme = "ananke"
